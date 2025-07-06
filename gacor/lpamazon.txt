@@ -2309,7 +2309,7 @@
                                     <span class="subnav-home">
                                         <a class="a-link-normal fs-links" href="https://perpustakaan.kemendagri.go.id/">
                                             <span id="mars-fs-name" class="a-size-base-plus a-color-base a-text-bold">
-                                                Slot Online
+                                                SLOT GACOR
                                             </span>
                                         </a>
                                     </span>
@@ -2320,7 +2320,7 @@
                                             <a id="Deals" class="a-link-normal links fs-links subnav-links"
                                                 href="https://perpustakaan.kemendagri.go.id/">
                                                 <span class="a-size-base-plus a-color-base">
-                                                    Slot Gacor
+                                                    SITUS SLOT GACOR
                                                 </span>
                                             </a>
 
@@ -2332,7 +2332,7 @@
                                         <span class="subnav-link-wrapper">
                                             <a id="Deals" class="a-link-normal links fs-links subnav-links"
                                                 href="https://perpustakaan.kemendagri.go.id/">
-                                                <span class="a-size-base-plus a-color-base">Link Slot Gacor
+                                                <span class="a-size-base-plus a-color-base">SITUS SLOT
                                                 </span>
                                             </a>
 
@@ -2345,7 +2345,7 @@
                                             <a id="Deals" class="a-link-normal links fs-links subnav-links"
                                                 href="https://perpustakaan.kemendagri.go.id/">
                                                 <span class="a-size-base-plus a-color-base">
-                                                    Slot
+                                                    SLOT
                                                 </span>
                                             </a>
 
