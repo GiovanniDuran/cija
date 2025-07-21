@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iris1103.uns.ac.id/sitemap.xml
