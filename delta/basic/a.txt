@@ -202,7 +202,7 @@
    "@context": "https:\/\/schema.org",
    "name": "Slot Gacor 2025"
   },
-  "logo": "https://cija.pages.dev/ku/kurc/Slot Gacor 2025.png",
+  "logo": "https://cija.pages.dev/delta/basic/logo2.png",
   "aggregateRating": {
    "@type": "AggregateRating",
    "ratingValue": "5.0",
@@ -423,7 +423,7 @@
         <div class="wt-pb-lg-0 wt-pt-sm-1 wt-pt-lg-0 wt-pr-xs-0 wt-pr-sm-1 " data-header-logo-container>
             <a href="/" elementtiming="ux-global-nav">
                 <span class="wt-screen-reader-only">Slot Gacor 2025</span>
-                <img src="https://cija.pages.dev/ku/kurc/Slot Gacor 2025.png" alt="Slot Gacor 2025" style="max-height:40px;">
+                <img src="https://cija.pages.dev/delta/basic/logo2.png" alt="Slot Gacor 2025" style="max-height:40px;">
             </a>
         </div>
             <nav class="wt-hide-xs wt-show-lg">
